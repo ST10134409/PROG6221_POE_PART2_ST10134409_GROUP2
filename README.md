@@ -1,0 +1,7 @@
+# PROG6221_POE_PART1_ST10134409_GROUP2
+The program I have designed is created to provide users with a convenient way to create and access recipes while keeping track of the calories. 
+Upon running the program, the user is met with a menu which allows users to select an option and choose which action to perform. If the user chooses the first option, they will be led to a page where they can enter the recipe. The user will enter in the number of recipes they choose to store along with the recipe's name, the number of ingredients, the ingredients food groups, quantity, unit of measurement and calories. The program will provide users with the definition of ‘calorie’ and a message for different ranges of calorie counts. As the user is entering the calories per ingredient the system will calculate the total number of calories and display a warning when they have exceeded 300 calories for a single recipe. 
+When the user selects the second option, they will be able to enter the instructions on how to create and complete the recipe. 
+The user will be able to view an alphabetical list of recipes when they choose the third option. This will sort all the ingredients they have entered from the first letter to the last. 
+The fourth option will provide users with the option to view one entire recipe from the ones they have entered. Including the name, ingredients, calories, and instructions on how to make the recipe. 
+The fifth option allows users to view a scale version of the ingredients of any recipe of their choosing. 
